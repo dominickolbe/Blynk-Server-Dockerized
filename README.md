@@ -1,6 +1,6 @@
 # Blynk Server Dockerized (0.41.0)
 
-<p align="center"><img src="logo.png" alt="logo"></p>
+![Alt text](logo.png?raw=true "Logo")
 
 ### BUILD
 
