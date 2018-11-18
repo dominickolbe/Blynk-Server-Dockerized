@@ -28,6 +28,13 @@ password: admin
 
 **PLEASE CHANGE THE DEFAULT USER !**
 
+___
+
+### Useful Blynk usage
+
+- [Monitor your local ping a Raspberry Pi and Node.js](https://github.com/dominickolbe/blynk-ping)
+
+___
 
 ## License
 
