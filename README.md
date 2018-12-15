@@ -32,8 +32,8 @@ ___
 
 ### Useful Blynk usage
 
-- [Monitor your local ping a Raspberry Pi and Node.js](https://github.com/dominickolbe/blynk-ping)
-- [Monitor your download and upload speed within blynk](https://github.com/dominickolbe/blynk-speed)
+- [Monitor your local ping](https://github.com/dominickolbe/blynk-ping)
+- [Monitor your download and upload speed](https://github.com/dominickolbe/blynk-speed)
 
 ___
 
